@@ -1,2 +1,2 @@
-# FSTB
-Fahrebheit_Celsius Comparsion Table
+# Recording for ocde 
+something i have learnt
